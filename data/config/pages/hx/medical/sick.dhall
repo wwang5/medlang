@@ -23,7 +23,7 @@ translations =
     {
         en = "Have you been sick?",
         es = Some "Ha estado enfermo?",
-        zh = None Text
+        zh = Some "您最近有感冒嗎？"
     },
     {
         en = "Have you been around sick people recently?",

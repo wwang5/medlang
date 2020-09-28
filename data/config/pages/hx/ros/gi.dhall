@@ -8,7 +8,7 @@ translations =
     {
         en = "Stomach pain?",
         es = Some "Dolor abdominal / de barriga?",
-        zh = None Text
+        zh = Some "肚子痛"
     },
     {
         en = "Abdominal swelling?",
@@ -23,22 +23,22 @@ translations =
     {
         en = "Heartburn? / Burning sensation in your chest?",
         es = Some "Acidez en el est&oacute;mago? / Ardor en el pecho?",
-        zh = None Text
+        zh = Some "便秘 (bian4 mi4)"
     },
     {
         en = "Nausea?",
         es = Some "N&aacute;useas?",
-        zh = None Text
+        zh = Some "想吐 (xian3 tu4)"
     },
     {
         en = "Vomiting<br>...con sangre?",
         es = Some "V&oacute;mito<br>...blood?",
-        zh = None Text
+        zh = Some "嘔吐 (ou3 tu4)"
     },
     {
         en = "Diarrhea?",
         es = Some "Diarrea?",
-        zh = None Text
+        zh = Some "腹瀉 (fu4 xie4)"
     },
     {
         en = "Black / bloody / pale-color stools?",
@@ -48,7 +48,7 @@ translations =
     {
         en = "Constipation?",
         es = Some "Constipaci&oacute;n?",
-        zh = None Text
+        zh = Some "便秘 (bian4 mi4)"
     },
     {
         en = "Are you passing gas?",

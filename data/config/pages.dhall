@@ -1,7 +1,5 @@
 -- The list of pages on the website
-
 let s = ./schema.dhall
-
 let pages : List s.PageUnion = [
     ./pages/index.dhall "index",
 

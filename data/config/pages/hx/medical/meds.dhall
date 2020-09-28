@@ -11,23 +11,23 @@ translations =
         zh = None Text
     },
     {
-        en = "OTC meds",
-        es = Some "medicamentos sin receta",
-        zh = None Text
-    },
-    {
         en = "- For what?",
         es = Some "- Para qu&eacute;?",
         zh = None Text
     },
     {
-        en = "How often?",
-        es = Some "Con qu&eacute; frecuencia?",
+        en = "How often? Cu&aacute;ntas pastillas cada d&iacute;a?",
+        es = Some "Con qu&eacute; frecuencia?  How many pills per day?",
         zh = None Text
     },
     {
         en = "What dose?",
         es = Some "Qu&eacute; dosis?",
+        zh = None Text
+    },
+    {
+        en = "over the counter medication",
+        es = Some "medicamento sin receta",
         zh = None Text
     }
 ],

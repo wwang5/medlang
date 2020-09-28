@@ -13,7 +13,7 @@ translations =
     {
         en = "Blood in urine?",
         es = Some "Sangre en la orina?",
-        zh = None Text
+        zh = Some "血尿 (xie3 niao4)"
     },
     {
         en = "Loss of bladder control (urinary incontinence)?",

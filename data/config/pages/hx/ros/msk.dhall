@@ -13,17 +13,17 @@ translations =
     {
         en = "Swelling of your joints/muscles?",
         es = Some "Se le hinchan las articulaciones/los m&uacute;sculos?",
-        zh = None Text
+        zh = Some "關節(guan1 jie2)/肌肉(ji1 rou4) 腫(zhong3)?"
     },
     {
         en = "Calambres?",
         es = Some "Cramps?",
-        zh = None Text
+        zh = Some “抽筋 (chou1 jin1)?”
     },
     {
         en = "Stiffness?",
         es = Some "Rigidez?",
-        zh = None Text
+        zh = Some "僵硬 (jiang1 ying4)?"
     },
     {
         en = "Deformity?",

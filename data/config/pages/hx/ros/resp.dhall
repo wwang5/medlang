@@ -8,7 +8,7 @@ translations =
     {
         en = "Have you had a cough?",
         es = Some "Ha tenido tos?",
-        zh = None Text
+        zh = Some "有咳嗽嗎？"
     },
     {
         en = "Is it dry?",
@@ -18,7 +18,7 @@ translations =
     {
         en = "Do you cough up sputum / phlegm?",
         es = Some "Tose esputo / flema?",
-        zh = None Text
+        zh = Some "您會咳出痰(tan2)嗎？"
     },
     {
         en = "- What color?",
@@ -33,17 +33,17 @@ translations =
     {
         en = "Have you been wheezing?",
         es = Some "Ha estado jadeando?",
-        zh = None Text
+        zh = Some "有 氣喘聲(qi4 chuan3 sheng1) 嗎?"
     },
     {
         en = "Short of breath? / Difficulty breathing?",
         es = Some "Falta de aire? / Dificultad para respirar?",
-        zh = None Text
+        zh = Some "呼吸困難 (hu1 xi1 kun4 nan2)?"
     },
     {
-        en = "Chest pain when you cough / breathe deeply?",
-        es = Some "Dolor de pecho cuando tose / respira profundamente?",
-        zh = None Text
+        en = "Chest pain when you breathe deeply?",
+        es = Some "Dolor de pecho cuando respira profundamente?",
+        zh = Some "深呼吸(shen1 hu1 xi1) 的時候， 胸部痛嗎？"
     }
 ],
 menu_items = ./menu_items.dhall,

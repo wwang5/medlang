@@ -8,12 +8,12 @@ translations =
     {
         en = "Unexplained weight loss / gain?",
         es = Some "P&eacute;rdida / Aumento de peso inexplicable?",
-        zh = None Text
+        zh = Some "體重 減輕/增加 (ti3 zhong4 jian3 qing1 / zeng1 jia1)"
     },
     {
-        en = "- How many pounds?",
-        es = Some "- Cu&aacute;ntos pesos?",
-        zh = None Text
+        en = "- How many pounds/kg?",
+        es = Some "- Cu&aacute;ntos pesos/kilogramas?",
+        zh = Some "- 幾 磅(bang4)/公斤"
     },
     {
         en = "Fatigue?",

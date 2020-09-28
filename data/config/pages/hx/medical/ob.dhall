@@ -8,7 +8,7 @@ translations =
     {
         en = "When was your last menstrual period?",
         es = Some "Cu&aacute;ndo fue su &uacute;ltima menstruaci&oacute;n?",
-        zh = None Text
+        zh = Some "您最後一次 月經(yue4 jing1) 是什麽時候？"
     },
     {
         en = "Are your periods regular?",

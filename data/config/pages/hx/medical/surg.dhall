@@ -8,7 +8,7 @@ translations =
     {
         en = "Have you ever had surgery?<br>What year?<br>What for?",
         es = Some "Ha tenido alguna cirug&iacute;a?<br>En qu&eacute; a&ntilde;o?<br>Por qu&eacute;?",
-        zh = None Text
+        zh = Some "您做過 手術(shou3 shu4) 嗎?"
     },
     {
         en = "Were there any complications?",
@@ -23,7 +23,7 @@ translations =
     {
         en = "Have you ever been hospitalized?",
         es = Some "Ha sido hospitalizado/a?",
-        zh = None Text
+        zh = Some "您有住院過嗎 (nin2 you3 zhu1 yuan1 guo1 ma)?"
     },
     {
         en = "Have you had any falls, accidents, injuries, or trauma in your life?",

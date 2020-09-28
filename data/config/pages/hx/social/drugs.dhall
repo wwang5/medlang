@@ -8,32 +8,32 @@ translations =
     {
         en = "Do you drink alcohol?",
         es = Some "Bebe alcohol?",
-        zh = None Text
+        zh = Some "您喝酒嗎?"
     },
     {
         en = "How much do you drink per day/week/month?",
         es = Some "Cu&aacute;ntos tragos cada dia/semana/mes?",
-        zh = None Text
+        zh = Some "您一 天/周/月 喝多少杯酒？"
     },
     {
         en = "- 1 glass / can / bottle",
         es = Some "- Un(a) copa / lata / botella",
-        zh = None Text
+        zh = Some "- 一 杯/ / "
     },
     {
         en = "What type of alcohol?<br>- wine<br>- beer<br>- whiskey",
         es = Some "Qu&eacute; tipo de alcohol?<br>- vino<br>- cerveza<br>- whisky",
-        zh = None Text
+        zh = Some "喝什麽酒？"
     },
     {
         en = "Have you ever smoked?",
         es = Some "Ha fumado?",
-        zh = Some "您 抽 烟 吗?<br>nin2 chou1 yan1 ma1?"
+        zh = Some "您抽烟嗎? (nin2 cho1 yan1 ma?)"
     },
     {
-        en = "How many cigarettes / packs per day?",
-        es = Some "Cu&aacute;ntos cigarillos / paquetes cada dia?",
-        zh = Some "一天抽多少 _/盒<br>x zhi1/he2"
+        en = "How many cigarettes/packs per day/week?",
+        es = Some "Cu&aacute;ntos cigarillos/paquetes cada dia/semana?",
+        zh = Some "一 天/周 多少 隻/盒？(yi tian1/zhou1 duo1 shao3 zhi1/xiang1?)"
     },
     {
         en = "Pipe / Cigar / tobacco / Vaping",
@@ -43,7 +43,7 @@ translations =
     {
         en = "Have you ever used drugs?",
         es = Some "Ha usado drogas?",
-        zh = None Text
+        zh = Some "您用 毒品(du2 pin3) 嗎？"
     },
     {
         en = "marijuana / meth(amphetamines) / cocaine / heroin",

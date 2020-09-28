@@ -8,7 +8,7 @@ translations =
     {
         en = "What's your job?",
         es = Some "Qu&eacute; trabajo tiene?",
-        zh = None Text
+        zh = Some "您在哪裏工作？"
     },
     {
         en = "Does your job involve strenuous physical activity?",
@@ -28,12 +28,12 @@ translations =
     {
         en = "Where do you live?",
         es = Some "D&oacute;nde vive?",
-        zh = None Text
+        zh = Some "您住在哪裏?"
     },
     {
         en = "Whom do you live with?",
         es = Some "Con qui&eacute;n vive?",
-        zh = None Text
+        zh = Some "您跟誰住?"
     },
     {
         en = "Nursing home",
@@ -53,12 +53,12 @@ translations =
     {
         en = "Do you have children? Pets? How old are they?",
         es = Some "Tiene ni&ntilde;nos? animales dom&eacute;sticos? Cu&aacute;ntos a&ntilde;os tienen?",
-        zh = None Text
+        zh = Some "您有孩子嗎？ 養動物嗎？  他們幾歲？"
     },
     {
         en = "Do you feel safe at home?",
         es = Some "Se siente seguro/a en casa?",
-        zh = None Text
+        zh = Some "您在家覺得安全嗎 (nin2 zai4 jia1 jue2 de an1 quan2 ma)?"
     },
     {
         en = "Have you ever felt physically or verbally threatened at home?",
@@ -68,7 +68,7 @@ translations =
     {
         en = "Are you under much stress?",
         es = Some "Tiene mucho estr&eacute;s?",
-        zh = None Text
+        zh = Some "您生活壓力大嗎？"
     },
     {
         en = "Have you ever been/worked in a prison?",

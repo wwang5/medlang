@@ -13,7 +13,7 @@ translations =
     {
         en = "Rashes?",
         es = Some "Erupciones en su piel?",
-        zh = None Text
+        zh = Some " "
     },
     {
         en = "New skin lesions?",
@@ -23,12 +23,22 @@ translations =
     {
         en = "- moles / growths / bumps",
         es = Some "- lunares / crecimientos / ",
-        zh = None Text
+        zh = Some "- 痣(zhi4) / "
     },
     {
         en = "Itching?",
         es = Some "Picaz&oacute;n?",
-        zh = None Text
+        zh = Some "發癢 (fa1 yang3)?"
+    },
+    {
+        en = "Bleeding?",
+        es = Some "sangrado?",
+        zh = Some "流血 (liu2 xie3)?"
+    },
+    {
+        en = "Bruising?",
+        es = Some "moretones?",
+        zh = Some "瘀血 (yu1 xie3)?"
     }
 ],
 menu_items = ./menu_items.dhall,

@@ -8,17 +8,17 @@ translations =
     {
         en = "Chest pain/pressure",
         es = Some "Dolor de pecho?",
-        zh = None Text
+        zh = Some "胸(xiong1) 痛/壓力感?"
     },
     {
         en = "Short of breath? (dyspnea)",
         es = Some "Dificultad de respirar?",
-        zh = None Text
+        zh = Some "呼吸困難 (hu1 xi1 kun4 nan2)?"
     },
     {
         en = "- when lying flat? (orthopnea)",
         es = Some "- cuando est&aacute;a acostado/a?",
-        zh = None Text
+        zh = Some "- 躺下(tang3 xia4) 時候?"
     },
     {
         en = "Rapid / irregular heartbeats?",

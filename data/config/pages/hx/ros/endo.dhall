@@ -1,39 +1,44 @@
--- endo
+-- gen
 let s = ./schema.dhall
 in ./technique.dhall {
-title = "ROS: Endocrine",
+title = "ROS: Constitutional",
 image = None Text,
 translations =
 [
     {
         en = "Unexplained weight loss / gain?",
         es = Some "P&eacute;rdida / Aumento de peso inexplicable?",
-        zh = None Text
+        zh = Some "體重 減輕/增加 (ti3 zhong4 jian3 qing1 / zeng1 jia1)"
     },
     {
-        en = "Cold / heat intolerance?",
-        es = Some "Intolerencia al fr&iacute;o / calor?",
-        zh = None Text
+        en = "- How many pounds/kg?",
+        es = Some "- Cu&aacute;ntos pesos/kilogramas?",
+        zh = Some "- 幾 磅(bang4)/公斤"
+    },
+    {
+        en = "Fatigue?",
+        es = Some "F&aacute;tiga?",
+        zh = Some "疲勞 (pi2 lao2)"
     },
     {
         en = "Loss / gain in appetite?",
         es = Some "Falta / gana de apetito?",
-        zh = None Text
+        zh = Some "食欲不振 （shíyù bùzhèn）"
     },
     {
-        en = "Mucho sed / hambre?",
-        es = Some "Great thirst / hunger?",
-        zh = None Text
+        en = "Fever?",
+        es = Some "Fiebre?",
+        zh = Some "發燒"
     },
     {
-        en = "Temblores?",
-        es = Some "Trembling?",
-        zh = None Text
+        en = "Chills?",
+        es = Some "Escalofrios?",
+        zh = Some "發冷"
     },
     {
-        en = "Ha orinado m&aacute;s que normal?",
-        es = Some "Have you urinated more than normal?",
-        zh = None Text
+        en = "Night sweats?",
+        es = Some "Sudoraciones nocturnas?",
+        zh = Some "盜汗 (dao4 han4)"
     }
 ],
 menu_items = ./menu_items.dhall,

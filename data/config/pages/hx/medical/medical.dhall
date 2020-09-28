@@ -8,7 +8,7 @@ translations =
     {
         en = "Have you ever been diagnosed with any medical conditions?",
         es = Some "Ha sido diagnosticado con alguna problema m&eacute;dica?",
-        zh = None Text
+        zh = Some "您有什麽健康問題嗎 (nin2 you3 shen2me jian4kang1 wen4ti2 ma)?"
     },
     {
         en = "<u> Medical conditions </u>",
@@ -28,12 +28,12 @@ translations =
     {
         en = "Have you ever been hospitalized?",
         es = Some "Ha sido hospitalizado/a?",
-        zh = None Text
+        zh = Some "您有 住院(zhu4 yuan4) 過嗎?"
     },
     {
         en = "Does anyone in your family have medical problems?",
         es = Some "Alguien en su familia tiene problemas m&eacute;dicas?",
-        zh = None Text
+        zh = Some "您的家庭有什麽健康問題嗎？"
     },
     {
         en = "Are both of your parents currently living?",

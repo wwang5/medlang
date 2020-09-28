@@ -28,12 +28,12 @@ translations =
     {
         en = "- rash",
         es = Some "- erupci&oacute;n",
-        zh = None Text
+        zh = Some "- 皮疹 (pi2 zhen3)"
     },
     {
         en = "- I itch",
         es = Some "- me pica",
-        zh = None Text
+        zh = Some "- 癢 (yang3)"
     },
     {
         en = "- swelling",

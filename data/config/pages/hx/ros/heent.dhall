@@ -28,7 +28,7 @@ translations =
     {
         en = "Change in vision?",
         es = Some "Cambios en la vista?",
-        zh = None Text
+        zh = Some "視力(shi4 li4) 改變(gai3 bian4) 嗎？"
     },
     {
         en = "Dry eyes / mouth?",
@@ -48,7 +48,7 @@ translations =
     {
         en = "Eye redness?",
         es = Some "Ojos rojos?",
-        zh = None Text
+        zh = Some "紅眼？"
     },
     {
         en = "Watery eyes?",
@@ -63,7 +63,7 @@ translations =
     {
         en = "Difficulty hearing?",
         es = Some "Dificultad para o&iacute;r?",
-        zh = None Text
+        zh = Some "聽力困難 (ting1 li4 kun4 nan2)?"
     },
     {
         en = "P&eacute;rdida de la audici&oacute;n?",
@@ -73,7 +73,7 @@ translations =
     {
         en = "Ringing in your ears?",
         es = Some "Zumbido en sus o&iacute;dos?",
-        zh = None Text
+        zh = Some "耳鳴 (er3 ming2)?"
     },
     {
         en = "<u>Nose/Sinuses</u>",
@@ -83,17 +83,17 @@ translations =
     {
         en = "Runny nose?",
         es = Some "Goteo de la nariz?",
-        zh = None Text
+        zh = Some "流鼻涕？"
     },
     {
         en = "Nasal congestion?",
         es = Some "Congesti&oacute;n de la nariz?",
-        zh = None Text
+        zh = Some "鼻塞？"
     },
     {
         en = "Sinus pressure/pain?",
         es = Some "Presi&oacute;n/dolor en los senos nasales?",
-        zh = None Text
+        zh = Some "鼻竇(bi2 dou4) 壓力/痛？"
     },
     {
         en = "<u>Throat</u>",
@@ -113,27 +113,32 @@ translations =
     {
         en = "Bad breath?",
         es = Some "Mal aliento?",
-        zh = None Text
+        zh = Some "口臭 (kou3 chou4)?"
     },
     {
         en = "Difficulty / pain swallowing?",
         es = Some "Dificultad / dolor al tragar?",
-        zh = None Text
+        zh = Some "吞嚥(tun1 yan4) 困難？"
     },
     {
         en = "Drooling?",
         es = Some "Babear?",
-        zh = None Text
+        zh = Some "流口水？"
     },
     {
         en = "Feeling of a lump in your throat?",
         es = Some "Sensaci&oacute;n de un nudo en su garganta?",
-        zh = None Text
+        zh = Some "喉嚨(hou2 long2) 有 腫塊(zhong3 kuai4) 的感覺？"
     },
     {
         en = "Toothache?",
         es = Some "Dolor de muelas?",
         zh = None Text
+    },
+    {
+        en = "Changes in taste?",
+        es = Some "Cambios en el gusto?",
+        zh = Some "味覺(wei4 jue2) 變化？"
     }
 ],
 menu_items = ./menu_items.dhall,

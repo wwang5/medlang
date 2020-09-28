@@ -8,7 +8,7 @@ translations =
     {
         en = "Numbness or tingling in ___?",
         es = Some "Entumecimiento o sensaci&oacute;n de hormigueos en ___?",
-        zh = None Text
+        zh = Some "___有 麻木(ma2 mu4) 吗？"
     },
     {
         en = "Muscle weakness?",
@@ -28,7 +28,7 @@ translations =
     {
         en = "Dizziness?",
         es = Some "Mareos?",
-        zh = None Text
+        zh = Some "頭昏 (tou2 hun1)"
     },
     {
         en = "-Lightheaded?",
@@ -43,12 +43,12 @@ translations =
     {
         en = "-Sensation that the room is spinning (vertigo)?",
         es = Some "-Sensaci&oacute;n como si el cuarto est&aacute; girando?",
-        zh = None Text
+        zh = Some "-感覺房間在 轉動(zhuan3 dong4) 嗎?"
     },
     {
         en = "Headache?",
         es = Some "Dolor de cabeza?",
-        zh = None Text
+        zh = Some "頭痛"
     },
     {
         en = "Change in behavior?",
@@ -67,8 +67,8 @@ translations =
     },
     {
         en = "Fainting?",
-        es = Some "Desmayo?",
-        zh = None Text
+        es = Some "Se le desmay&oacute;?",
+        zh = Some "暈倒 (yun1 dao3)?"
     },
     {
         en = "Loss of consciousness?",

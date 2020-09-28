@@ -8,17 +8,22 @@ translations =
     {
         en = "Depression?",
         es = Some "Depresi&oacute;n",
-        zh = None Text
+        zh = Some " "
+    },
+    {
+        en = "Loss of interest?",
+        es = Some "P&eacute;rdida de inter&eacute;s?",
+        zh = Some "失去(shi1 qv4) 興趣(xing4 qv4)?"
     },
     {
         en = "Energy loss?",
         es = Some "Falta de energ&iacute;a?.",
-        zh = None Text
+        zh = Some "沒精神"
     },
     {
         en = "Sleeping problems?",
         es = Some "Problemas al dormir?.",
-        zh = None Text
+        zh = Some "睡眠問題"
     },
     {
         en = "Memory loss?",
@@ -33,7 +38,7 @@ translations =
     {
         en = "Anxiety? Stress?",
         es = Some "Ansiedad? Estr&eacute;s?",
-        zh = None Text
+        zh = Some "緊張 (jin3 zhang1)?  壓力大？"
     },
     {
         en = "Irritability?",
@@ -42,13 +47,13 @@ translations =
     },
     {
         en = "[auditory/visual] hallucinations?",
-        es = Some "Alucinaciones [visuales / auditivas]?",
+        es = Some "halucinaciones [visuales / auditivas]?",
         zh = None Text
     },
     {
         en = "Thoughts of hurting yourself / others?",
         es = Some "Pensamientos sobre lastimarse a s&iacute; mismo / otros?",
-        zh = None Text
+        zh = Some "想傷害自己或他人的想法?"
     },
     {
         en = "Change in mood?",
