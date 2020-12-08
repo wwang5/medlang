@@ -8,7 +8,7 @@ translations =
     {
         en = "Muscle pain (at ___)?",
         es = Some "Dolor muscular (de ____)?",
-        zh = None Text
+        zh = Some "———肌肉痛？"
     },
     {
         en = "Swelling of your joints/muscles?",
@@ -28,7 +28,7 @@ translations =
     {
         en = "Deformity?",
         es = Some "Deformidad?",
-        zh = None Text
+        zh = Some " "
     },
     {
         en = "- the back",
@@ -38,7 +38,7 @@ translations =
     {
         en = "- the shoulder?",
         es = Some "- el hombro?",
-        zh = None Text
+        zh = Some "- 肩膀 (jian1 bang3)" 
     }
 ],
 menu_items = ./menu_items.dhall,

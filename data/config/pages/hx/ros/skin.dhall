@@ -8,17 +8,17 @@ translations =
     {
         en = "Hair loss?",
         es = Some "P&eacute;rdida de pelo?",
-        zh = None Text
+        zh = Some "脫髮"
     },
     {
         en = "Rashes?",
         es = Some "Erupciones en su piel?",
-        zh = Some " "
+        zh = Some "皮疹"
     },
     {
         en = "New skin lesions?",
         es = Some "Nuevos lesi&oacute;n en su piel?",
-        zh = None Text
+        zh = Some " "
     },
     {
         en = "- moles / growths / bumps",

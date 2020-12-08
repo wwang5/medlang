@@ -48,7 +48,7 @@ translations =
     {
         en = "prison",
         es = Some "la c&aacute;rcel",
-        zh = None Text
+        zh = Some "監獄 (jian1 yu4)"
     },
     {
         en = "Do you have children? Pets? How old are they?",

@@ -13,7 +13,7 @@ translations =
     {
         en = "Is it dry?",
         es = Some "Es seca?",
-        zh = None Text
+        zh = Some "是 乾咳(gan1 ke2) 嗎？"
     },
     {
         en = "Do you cough up sputum / phlegm?",
@@ -23,12 +23,12 @@ translations =
     {
         en = "- What color?",
         es = Some "- De qu&eacute; color?",
-        zh = None Text
+        zh = Some "- 痰(tan2) 是什麽顔色?"
     },
     {
         en = "- Clear / white / frothy / yellow / red / bloody?",
         es = Some "- Claro / blanco / espumoso / amarillo / rojo / con sangre?",
-        zh = None Text
+        zh = Some "- 清 / 白 / 黃 / 紅 / 有血" 
     },
     {
         en = "Have you been wheezing?",

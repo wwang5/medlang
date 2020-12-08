@@ -18,7 +18,7 @@ translations =
     {
         en = "When did you last see a doctor?",
         es = Some "Cu&aacute;ndo fue su &uacute;ltima cita con el doctor?",
-        zh = None Text
+        zh = Some "您最後一次看醫生是什麽時候？"
     },
     {
         en = "Have you ever had an X-ray/CT/MRI taken? For what?",

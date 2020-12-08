@@ -18,12 +18,12 @@ translations =
     {
         en = "- 1 glass / can / bottle",
         es = Some "- Un(a) copa / lata / botella",
-        zh = Some "- 一 杯/ / "
+        zh = Some "- 一 杯/ 罐 (guan4) / 瓶(ping2)"
     },
     {
         en = "What type of alcohol?<br>- wine<br>- beer<br>- whiskey",
         es = Some "Qu&eacute; tipo de alcohol?<br>- vino<br>- cerveza<br>- whisky",
-        zh = Some "喝什麽酒？"
+        zh = Some "喝什麽酒？<br>- 葡萄酒<br>- 啤酒(pi2 jiu3)<br> -"
     },
     {
         en = "Have you ever smoked?",
@@ -48,17 +48,17 @@ translations =
     {
         en = "marijuana / meth(amphetamines) / cocaine / heroin",
         es = Some "marihuana / met(anfetaminas) / coca&iacute;na / hero&iacute;na",
-        zh = None Text
+        zh = Some "大麻(da4 ma2) / __ / 可卡因 / "
     },
     {
         en = "For how many years?",
-        es = Some  "Por cu&aacute;ntos a&ntilde;os?",
+        es = Some "Por cu&aacute;ntos a&ntilde;os?",
         zh = None Text
     },
     {
-        en = "When did you quit?",
-        es = Some "Cu&aacute;ndo dej&oacute;?",
-        zh = None Text
+        en = "When did you quit __?",
+        es = Some "Cu&aacute;ndo dej&oacute; __?",
+        zh = Some "您什麽時候 戒(jie4) __?"
     }
 ],
 menu_items = ./menu_items.dhall,

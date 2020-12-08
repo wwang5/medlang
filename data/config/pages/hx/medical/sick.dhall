@@ -33,7 +33,7 @@ translations =
     {
         en = "chicken pox",
         es = Some "la varicela",
-        zh = None Text
+        zh = Some "水痘 (shui3 dou4)"
     },
     {
         en = "BCG (tuberculosis) vaccine",

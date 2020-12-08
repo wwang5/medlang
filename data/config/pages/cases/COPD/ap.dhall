@@ -8,7 +8,7 @@ translations =
     {
         en = "We will perform a chest x-ray to look at your lungs.",
         es = Some "Vamos a hacer una radiograf&iacute;a de pecho para ver sus pulmones.",
-        zh = None Text
+        zh = Some "胸部X光 (xiong1 bu4 x guang1), 檢查啊您的肺"
     },
     {
         en = "We will perform an ABG. We will draw blood from your arteries so that we can look at the levels of oxygen and carbon dioxide in your blood.",
@@ -41,7 +41,7 @@ translations =
         zh = None Text
     },
     {
-        en = "Take the __ using your inhaler/nebulizer once a day. These medications open up your airway.",
+        en = "Take the ___ using your inhaler/nebulizer once a day. These medications open up your airway.",
         es = Some "Tome ___ con su inhalador/nebulizador cada d&iacute;a. Estos medicamentos abren los v&iacute;as respiratorias.",
         zh = None Text
     },

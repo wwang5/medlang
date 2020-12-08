@@ -10,8 +10,8 @@ translations =
         zh = None Text
     },
     {
-        en = "We will draw blood to check for heart enzymes, which can indicate stress/damage to your heart muscle.",
-        es = Some "Vamos a extraer sangre para evaluar las enzimas cardiacas, que pueden indicar card&iacute;acas da&ntilde;o al m&uacute;sculo cardiaco.",
+        en = "We will draw blood to check for troponin. The heart releases this enzyme when it's stressed/damaged.",
+        es = Some "Vamos a extraer sangre para evaluar el troponin. El coraz&oacute;n libera esta enzima cuando est&aacute; da&ntilde;ado.",
         zh = None Text
     },
     {
@@ -25,7 +25,7 @@ translations =
         zh = None Text
     },
     {
-        en = "A cardiac stress test will test your heart function while you exercise.",
+        en = "The stress test will test your heart function while you exercise.",
         es = Some "La prueba de esfuerzo card&iacute;aco va a probar su funci&oacute;n card&iacute;aca mientras hace ejercicio.",
         zh = None Text
     },
@@ -35,13 +35,13 @@ translations =
         zh = None Text
     },
     {
-        en = "Metoprolol/atenolol/propranolol (beta blockers) reduce strain on the heart.",
-        es = Some "Metoprolol/atenolol/propranolol (beta-bloqueadores) reducen el esfuerzo sobre el coraz&oacute;n.",
+        en = "Beta blockers reduce strain on the heart.",
+        es = Some "Los beta-bloqueadores reducen el esfuerzo sobre el coraz&oacute;n.",
         zh = None Text
     },
     {
         en = "Aspirin reduces inflammation of your blood vessels and the risk of heart attack.",
-        es = Some "La aspirina reducen inflamaci&oacute;n de los vasos sangu&iacute;neos y el riesgo de ataque cardiaco.",
+        es = Some "La aspirina reduce inflamaci&oacute;n de los vasos sangu&iacute;neos y el riesgo de ataque cardiaco.",
         zh = None Text
     },
     {

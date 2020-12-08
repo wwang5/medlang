@@ -13,7 +13,7 @@ translations =
     {
         en = "Are you allergic to any medications / foods / latex?",
         es = Some "Es al&eacutergico/a a alguna medicina / comida / l&aacutetex?",
-        zh = None Text
+        zh = Some "您對什麽 藥物 / 食物 / latex 過敏嗎？" 
     },
     {
         en = "Do you take medicine to alleviate your allergy?",

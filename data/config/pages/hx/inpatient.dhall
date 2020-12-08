@@ -11,9 +11,14 @@ translations =
         zh = None Text
     },
     {
-        en = "Any pain?",
-        es = Some "Tiene dolor?",
+        en = "Any pain? Do you want anything for it?",
+        es = Some "Tiene dolor? Desea algo para el dolor?",
         zh = None Text
+    },
+    {
+        en = "Did the medicine help?",
+        es = Some "El medicamento le ayud&oacute;?",
+        zh = Some " "
     },
     {
         en = "Problems urinating [peeing]?",
@@ -27,7 +32,7 @@ translations =
     },
     {
         en = "When was your last bowel movement?",
-        es = Some "Cu&aacute;ndo fue su &uacute;ltima evacuaci&oacute;n?",
+        es = Some "Cu&aacute;ndo fue la &uacute;ltima vez que evacu&oacute;?",
         zh = None Text
     },
     {
@@ -78,6 +83,11 @@ translations =
     {
         en = "Catheter",
         es = Some "Cat&eacute;ter",
+        zh = None Text
+    },
+    {
+        en = "Urinal",
+        es = Some "Orinal",
         zh = None Text
     }
 ],

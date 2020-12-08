@@ -13,7 +13,7 @@ translations =
     {
         en = "Why did you come to the hospital today?",
         es = Some "Porqu&eacute; vino al hospital hoy?",
-        zh = Some ""
+        zh = Some "您爲什麽今天來醫院？"
     },
     {
         en = "When did it start?",
@@ -43,7 +43,7 @@ translations =
     {
         en = "A lot",
         es = Some "Mucho",
-        zh = Some " "
+        zh = Some "非常"
     },
     {
         en = "Is it getting better, worse, or the same?",
@@ -53,12 +53,12 @@ translations =
     {
         en = "Where is the pain?",
         es = Some "D&oacute;nde est&aacute; el dolor?",
-        zh = Some "哪裏痛？( na3 li3 tong4?)"
+        zh = Some "哪裏痛？(na3 li3 tong4?)"
     },
     {
         en = "Does the pain move anywhere else?",
         es = Some "El dolor se mueve a otro sitio?",
-        zh = None Text
+        zh = Some "疼痛會 傳到(chuan2 dao4) 其它 部位(bu4 wei4) 嗎？"
     },
     {
         en = "What improves it? <br>What worsens it?",
@@ -81,14 +81,14 @@ translations =
         zh = Some "刺(ci4)痛 / 鈍(dun4)痛"
     },
     {
-        en = "- Throbbing / Cramping / Pressure",
+        en = "- Throbbing / Colicky / Pressure",
         es = Some " / C&oacute;lico / Presi&oacute;n",
-        zh = Some "抽(chou1)痛 /  / "
+        zh = Some "抽(chou1)痛 / 絞(jiao3)痛 / 壓(ya1)痛"
     },
     {
         en = "- Burning",
         es = Some "- Quemando",
-        zh = Some "- "
+        zh = Some "- 灼熱(zhuo2 re4) 痛"
     },
     {
         en = "Constant / Comes & goes",
@@ -103,7 +103,7 @@ translations =
     {
         en = "Have you had this pain (problem) before in your life?",
         es = Some "Ha tenido este dolor (problema) en su vida?",
-        zh = None Text
+        zh = Some "您以前有這樣的痛（症狀）過嗎？"
     },
     {
         en = "Any other symptoms?",

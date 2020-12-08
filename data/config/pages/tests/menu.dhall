@@ -14,6 +14,7 @@
         "- EGD <br>",
         "PROCEDURES:",
         "- Cardiac catheter",
+        "${../link.dhall "tests/transfusion" "- Blood Transfusion"}",
         "- EKG",
         "- Stress test",
         "- PFTs",

@@ -23,12 +23,12 @@ translations =
     {
         en = "What dose?",
         es = Some "Qu&eacute; dosis?",
-        zh = None Text
+        zh = Some "什麽"
     },
     {
         en = "over the counter medication",
         es = Some "medicamento sin receta",
-        zh = None Text
+        zh = Some "非處方(fei1 chu3 fang1) 藥"
     }
 ],
 menu_items = ./menu_items.dhall,

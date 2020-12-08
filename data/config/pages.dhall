@@ -155,8 +155,12 @@ let pages : List s.PageUnion = [
         ./pages/tests/pap.dhall "tests/pap",
         ./pages/tests/paracentesis.dhall "tests/paracentesis",
         ./pages/tests/pap.dhall "tests/urine",
+        ./pages/tests/transfusion.dhall "tests/transfusion",
+
 
     ./pages/cases/menu.dhall "cases/menu",
+    ./pages/cases/anemia/hp.dhall "cases/anemia/hp",
+    ./pages/cases/anemia/ap.dhall "cases/anemia/ap",
     ./pages/cases/COPD/hp.dhall "cases/COPD/hp",
     ./pages/cases/COPD/ap.dhall "cases/COPD/ap",
     ./pages/cases/CP/hp.dhall "cases/CP/hp",
@@ -173,6 +177,8 @@ let pages : List s.PageUnion = [
     ./pages/cases/OB/US.dhall "cases/OB/US",
     ./pages/cases/PNA/hp.dhall "cases/PNA/hp",
     ./pages/cases/PNA/ap.dhall "cases/PNA/ap",
+    ./pages/cases/SA/hp.dhall "cases/SA/hp",
+    ./pages/cases/SA/ap.dhall "cases/SA/ap",
     ./pages/cases/stroke/hp.dhall "cases/stroke/hp",
     ./pages/cases/stroke/ap.dhall "cases/stroke/ap",
     ./pages/cases/UTI/hp.dhall "cases/UTI/hp",
