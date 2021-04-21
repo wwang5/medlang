@@ -8,12 +8,12 @@ translations =
     {
         en = "Hair loss?",
         es = Some "P&eacute;rdida de pelo?",
-        zh = Some "脫髮"
+        zh = Some "脫髮 (tuo1 fa3)"
     },
     {
         en = "Rashes?",
         es = Some "Erupciones en su piel?",
-        zh = Some "皮疹"
+        zh = Some "皮疹 (pi2 zhen3)"
     },
     {
         en = "New skin lesions?",
@@ -21,9 +21,9 @@ translations =
         zh = Some " "
     },
     {
-        en = "- moles / growths / bumps",
-        es = Some "- lunares / crecimientos / ",
-        zh = Some "- 痣(zhi4) / "
+        en = "- moles // growths // bumps",
+        es = Some "- lunares // crecimientos // ",
+        zh = Some "- 痣(zhi4) //  // 肿块(zhong3 kuai4)"
     },
     {
         en = "Itching?",

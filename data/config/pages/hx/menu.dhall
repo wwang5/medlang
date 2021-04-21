@@ -12,6 +12,7 @@ in ./info.dhall {
         - ${./link.dhall "hx/inpatient" "Medicine Daily Progress"}<br>
         - ${./link.dhall "hx/surg/pre" "Pre & Post-Op"}<br>
         - ${./link.dhall "hx/psych" "Psychiatric"}<br>
+        - ${./link.dhall "hx/peds/menu" "Pediatric"}<br>
         ''
     ],
     backlink1 = None s.LinkData,

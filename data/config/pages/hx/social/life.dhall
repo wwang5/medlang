@@ -58,7 +58,7 @@ translations =
     {
         en = "Do you feel safe at home?",
         es = Some "Se siente seguro/a en casa?",
-        zh = Some "您在家覺得安全嗎 (nin2 zai4 jia1 jue2 de an1 quan2 ma)?"
+        zh = Some "您在家覺得安全嗎?"
     },
     {
         en = "Have you ever felt physically or verbally threatened at home?",
@@ -73,7 +73,7 @@ translations =
     {
         en = "Have you ever been/worked in a prison?",
         es = Some "Alguna vez estuvo/trabaj&oacute; en pris&oacute;n? (?)",
-        zh = None Text
+        zh = Some "您有在 監獄(jian4yu4) 裏工作過嗎？"
     }
 ],
 menu_items = ./menu_items.dhall,

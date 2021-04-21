@@ -26,19 +26,14 @@ translations =
         zh = Some "僵硬 (jiang1 ying4)?"
     },
     {
-        en = "Deformity?",
-        es = Some "Deformidad?",
-        zh = Some " "
-    },
-    {
         en = "- the back",
         es = Some "- la espalda?",
-        zh = None Text
+        zh = Some "背部； 腰"
     },
     {
         en = "- the shoulder?",
         es = Some "- el hombro?",
-        zh = Some "- 肩膀 (jian1 bang3)" 
+        zh = Some "- 肩膀 (jian1 bang3)"
     }
 ],
 menu_items = ./menu_items.dhall,

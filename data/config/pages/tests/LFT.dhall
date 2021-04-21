@@ -13,17 +13,17 @@ in ./technique.dhall {
         {
          en = "liver function tests",
          es = Some "las pruebas de la funci&oacute;n hep&aacute;tica",
-         zh = None Text
+         zh = Some "肝(gan1) 功能測試(gong1neng2ce4shi4)"
         },
         {
             en = "albumin.",
             es = Some "La alb&uacute;mina",
-            zh = None Text
+            zh = Some "白蛋白"
         },
         {
             en = "bilirubin",
             es = Some "La bilirubina",
-            zh = None Text
+            zh = Some "膽紅素(dan3hong2su4)" 
         }
     ],
     menu_items = [{title = " ", filename = "tests/LFT"}],

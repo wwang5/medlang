@@ -5,33 +5,28 @@ image = None Text,
 translations =
 [
     {
-        en = "DIAGNOSTICS",
-        es = None Text,
-        zh = None Text
-    },
-    {
-        en = "We will order a CT/MRI to take a look at your brain.",
+        en = "We will perform a CT/MRI to take a look at your brain.",
         es = Some "Vamos a hacer un CT/MRI para ver su cerebro.",
-        zh = None Text
+        zh = Some "我們會做CT/MRI來看您的腦。"
     },
     {
         en = "We will draw blood to check for inflammation.",
         es = Some "Vamos a obtener sangre para verificar si hay inflamaci&oacute;n.",
-        zh = None Text
+        zh = Some "我們會 抽血(chou1xue3) 來看有沒有發炎。"
     },
     {
         en = "LP: We will draw a small amount of fluid from your spine and examine it for infection.",
         es = Some "Punci&oacute;n lumbar: Vamos a drenar peque&ntilde;a cantidad de l&iacute;quida espinal, y lo examinamos por infecci&oacute;n.",
-        zh = None Text
-    },
-    {
-        en = "MANAGEMENT:",
-        es = None Text,
-        zh = None Text
+        zh = Some "腰椎(yao1zhui1) 穿刺(chuan1ci4): "
     },
     {
         en = "We will administer IV antibiotics for the infection.",
         es = Some "Vamos a administrar antibi&oacute;ticos intravenosa para la infecci&oacute;n.",
+        zh = None Text
+    },
+    {
+        en = "MIGRAINES：",
+        es = None Text,
         zh = None Text
     },
     {

@@ -8,12 +8,12 @@ translations =
     {
         en = "Unexplained weight loss / gain?",
         es = Some "P&eacute;rdida / Aumento de peso inexplicable?",
-        zh = Some "體重 減輕/增加 (ti3 zhong4 jian3 qing1 / zeng1 jia1)"
+        zh = Some "體重 減輕/增加? (ti3 zhong4 jian3 qing1 / zeng1 jia1)"
     },
     {
         en = "- How many pounds/kg?",
         es = Some "- Cu&aacute;ntos pesos/kilogramas?",
-        zh = Some "- 幾 磅(bang4)/公斤"
+        zh = Some "- 幾 磅(bang4)/公斤(gong1 jin1)?"
     },
     {
         en = "Fatigue?",
@@ -28,17 +28,17 @@ translations =
     {
         en = "Fever?",
         es = Some "Fiebre?",
-        zh = Some "發燒"
+        zh = Some "發燒 (fa1 shao1)"
     },
     {
         en = "Chills?",
         es = Some "Escalofrios?",
-        zh = Some "發冷"
+        zh = Some "發冷 (fa1 leng3)"
     },
     {
         en = "Night sweats?",
         es = Some "Sudoraciones nocturnas?",
-        zh = Some "盜汗 (dao4 han4)"
+        zh = Some "夜汗 (ye4 han4)"
     }
 ],
 menu_items = ./menu_items.dhall,

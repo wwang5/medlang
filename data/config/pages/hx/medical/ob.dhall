@@ -13,12 +13,12 @@ translations =
     {
         en = "Are your periods regular?",
         es = Some "Los per&iacute;odos son regulares?",
-        zh = None Text
+        zh = Some "您的 月經 正常嗎？"
     },
     {
         en = "Have you ever been pregnant?<br>How many times?",
         es = Some "Ha estado embarazada alguna vez?<br>Cu&aacute;ntas veces?",
-        zh = None Text
+        zh = Some "您 懷孕(huai2 yun4) 過嗎？ 多少次？"
     },
     {
         en = "Are you currently pregnant? Planning to get pregnant?",

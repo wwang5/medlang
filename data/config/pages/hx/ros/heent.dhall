@@ -6,9 +6,9 @@ image = None Text,
 translations =
 [
     {
-        en = "Secreci&oacute;n de ___?",
-        es = Some "___ discharge?",
-        zh = None Text
+        en = "Discharge",
+        es = Some "Secreci&oacute;n",
+        zh = Some "分泌物 (fen1 mi4 wu4)"
     },
     {
         en = "- What color? What consistency? Is there blood? Does it smell bad?",
@@ -43,17 +43,17 @@ translations =
     {
         en = "Light sensitivity?",
         es = Some "Sensibilidad a la luz?",
-        zh = None Text
+        zh = Some "对灯敏感 (dui4 deng1 min3 gan3)"
     },
     {
         en = "Eye redness?",
         es = Some "Ojos rojos?",
-        zh = Some "紅眼？"
+        zh = Some "紅眼？(yan3 hong2)"
     },
     {
         en = "Watery eyes?",
         es = Some "Ojos llorosos?",
-        zh = None Text
+        zh = Some "流眼泪 (liu2 yan3 lei4)"
     },
     {
         en = "<u>Ear</u>",
@@ -73,7 +73,7 @@ translations =
     {
         en = "Ringing in your ears?",
         es = Some "Zumbido en sus o&iacute;dos?",
-        zh = Some "耳鳴 (er3 ming2)?"
+        zh = Some "耳鳴? (er3 ming2)"
     },
     {
         en = "<u>Nose/Sinuses</u>",
@@ -83,12 +83,12 @@ translations =
     {
         en = "Runny nose?",
         es = Some "Goteo de la nariz?",
-        zh = Some "流鼻涕？"
+        zh = Some "流鼻涕？(liu2 bi2 ti4)"
     },
     {
-        en = "Nasal congestion?",
-        es = Some "Congesti&oacute;n de la nariz?",
-        zh = Some "鼻塞？"
+        en = "Blocked nose?",
+        es = Some "Nariz tapada?",
+        zh = Some "鼻塞？(bi2 sai1)"
     },
     {
         en = "Sinus pressure/pain?",
@@ -118,7 +118,7 @@ translations =
     {
         en = "Difficulty / pain swallowing?",
         es = Some "Dificultad / dolor al tragar?",
-        zh = Some "吞嚥(tun1 yan4) 困難？"
+        zh = Some "吞嚥困難？(tun1 yan4 kun4 nan2)"
     },
     {
         en = "Drooling?",

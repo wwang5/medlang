@@ -12,7 +12,7 @@ translations =
     {
         en = "Does this feel like the worst headache of your life?",
         es = Some "Siente como el peor dolor de cabeza de su vida?",
-        zh = None Text
+        zh = Some "感覺像是一生中 最嚴重(zui4yan2zhong4) 的頭痛嗎？"
     },
     {
         en = "Does it get worse with<br>-light?<br>-noise?",
@@ -22,12 +22,12 @@ translations =
     {
         en = "Do you experience visual or sensory symptoms before the headaches start?",
         es = Some "Tiene s&iacute;ntomas visuales o sensoriales antes del inicio del dolor?",
-        zh = None Text
+        zh = Some "頭痛開始之前， 您會有 視覺(shi4jue2) 或 感覺 的症狀嗎？"
     },
     {
         en = "flashing lights / vision changes / tingling",
         es = Some "destellos de luz / cambios de vista / hormigueo ",
-        zh = None Text
+        zh = Some "閃光燈 (shan3guang1deng1)/ 視力(shi4li4)變化 / 麻糍(ma2ci4)感"
     },
     {
         en = "SX:",
@@ -37,47 +37,42 @@ translations =
     {
         en = "fever",
         es = Some "fiebre",
-        zh = None Text
-    },
-    {
-        en = "headache",
-        es = Some "dolor de cabeza",
-        zh = None Text
+        zh = Some "發燒"
     },
     {
         en = "stiff neck",
         es = Some "cuello rigido",
-        zh = None Text
+        zh = Some "頸部(jing3bu4) 僵直(jiang1zhi2)"
     },
     {
         en = "confusion / drowsiness",
         es = Some "confusi&oacute;n / somnolencia",
-        zh = None Text
+        zh = Some "困惑(kun4huo4) / "
     },
     {
         en = "seizures",
         es = Some "convulsiones",
-        zh = None Text
+        zh = Some "發作"
     },
     {
         en = "joint aches",
         es = Some "dolor en los articulaciones",
-        zh = None Text
+        zh = Some "關節痛"
     },
     {
         en = "nausea / vomiting",
         es = Some "n&aacute;useas / v&oacute;mitos",
-        zh = None Text
+        zh = Some "惡心 (e3xin1) / 嘔吐 (ou3tu4)"
     },
     {
         en = "[peds]: fussy / difficulty waking / arched back",
         es = Some "irritable / dificultad para despertarse / espalda arqueada",
-        zh = None Text
+        zh = Some "[兒童]：挑剔(tiao1ti4) / "
     },
     {
         en = "Have you been in the woods recently?",
         es = Some "Ha estado en &aacute;reas boscosas recentamiente?",
-        zh = None Text
+        zh = Some "您最近有去森林嗎？"
     }
 ],
 menu_items = [{title = "HA - hx", filename = "cases/HA/hp"}, {title = "HA - A&P", filename = "cases/HA/ap"}],

@@ -7,12 +7,7 @@ in ./technique.dhall {
         {
          en = "Chest X-ray",
          es = Some "La radiograf&iacute;a de t&oacute;rax",
-         zh = None Text
-        },
-        {
-            en = "Your CXR shows...",
-            es = Some "Su radiograf&iacute;a muestra...",
-            zh = None Text
+         zh = Some "胸部X光 (xiong1bu2 X guang1)"
         },
         {
             en = "- an enlarged heart",
@@ -26,8 +21,8 @@ in ./technique.dhall {
         },
         {
             en = "- lung nodule",
-            es = Some "-  ",
-            zh = None Text
+            es = Some "- n&oacute;dulo pulmonar",
+            zh = Some "- 肺(fei4) 結節(jie2jie2)"
         },
         {
             en = "- fluid/infiltrates in the lungs, which may indicate a lung infection.",

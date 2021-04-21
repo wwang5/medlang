@@ -6,14 +6,9 @@ image = None Text,
 translations =
 [
     {
-        en = "Have you had a cough?",
-        es = Some "Ha tenido tos?",
-        zh = Some "有咳嗽嗎？"
-    },
-    {
-        en = "Is it dry?",
-        es = Some "Es seca?",
-        zh = Some "是 乾咳(gan1 ke2) 嗎？"
+        en = "Have you had a (dry) cough?",
+        es = Some "Ha tenido tos (seca)?",
+        zh = Some "有(乾)咳嗽嗎?"
     },
     {
         en = "Do you cough up sputum / phlegm?",
@@ -28,7 +23,7 @@ translations =
     {
         en = "- Clear / white / frothy / yellow / red / bloody?",
         es = Some "- Claro / blanco / espumoso / amarillo / rojo / con sangre?",
-        zh = Some "- 清 / 白 / 黃 / 紅 / 有血" 
+        zh = Some "- 清 / 白 / 黃 / 紅 / 有血"
     },
     {
         en = "Have you been wheezing?",

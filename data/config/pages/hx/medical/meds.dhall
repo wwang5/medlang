@@ -8,7 +8,7 @@ translations =
     {
         en = "Do you take medications?",
         es = Some "Toma medicamentos?",
-        zh = None Text
+        zh = Some "您吃什麽藥？"
     },
     {
         en = "- For what?",
@@ -23,7 +23,7 @@ translations =
     {
         en = "What dose?",
         es = Some "Qu&eacute; dosis?",
-        zh = Some "什麽"
+        zh = Some "什麽 劑量(ji4 liang4)?"
     },
     {
         en = "over the counter medication",

@@ -13,27 +13,27 @@ translations =
     {
         en = "Abdominal swelling?",
         es = Some "Abdomen hinchado?",
-        zh = None Text
+        zh = Some "肚子肿"
     },
     {
         en = "Regurgitation / reflux?",
         es = Some "Regurgitaci&oacute;n / reflujo?",
-        zh = None Text
+        zh = Some "反流 (fan3 liu2)?"
     },
     {
         en = "Heartburn? / Burning sensation in your chest?",
         es = Some "Acidez en el est&oacute;mago? / Ardor en el pecho?",
-        zh = Some "便秘 (bian4 mi4)"
+        zh = Some "胃灼热 (wei4 zhuo2 re4)"
     },
     {
-        en = "Nausea?",
-        es = Some "N&aacute;useas?",
-        zh = Some "想吐 (xian3 tu4)"
+        en = "Nausea",
+        es = Some "N&aacute;useas",
+        zh = Some "惡心 (e3 xin1)"
     },
     {
-        en = "Vomiting<br>...con sangre?",
-        es = Some "V&oacute;mito<br>...blood?",
-        zh = Some "嘔吐 (ou3 tu4)"
+        en = "Vomiting<br>...blood",
+        es = Some "V&oacute;mito<br>...sangre",
+        zh = Some "嘔吐 (ou3 tu4)<br>吐血(tu4 xie3)"
     },
     {
         en = "Diarrhea?",
@@ -41,9 +41,9 @@ translations =
         zh = Some "腹瀉 (fu4 xie4)"
     },
     {
-        en = "Black / bloody / pale-color stools?",
-        es = Some "Heces negras / con sangre / p&aacute;lidas?",
-        zh = None Text
+        en = "Bloody stools?",
+        es = Some "Heces con sangre?",
+        zh = Some "便血 (bian4 xie3)"
     },
     {
         en = "Constipation?",
@@ -53,7 +53,7 @@ translations =
     {
         en = "Are you passing gas?",
         es = Some "Pasa gases?",
-        zh = None Text
+        zh = Some "有 放屁(fan4 pi4) 嗎?"
     }
 ],
 menu_items = ./menu_items.dhall,
