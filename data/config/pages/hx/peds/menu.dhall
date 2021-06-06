@@ -3,10 +3,11 @@ in ./info.dhall {
     image = None Text,
     paragraphs = [
         ''
+        Well Child check:<br>
         - ${./link.dhall "hx/peds/young" "Newborn/Infant/Toddler (0-5 y/o)"}<br>
-        - ${./link.dhall "hx/peds/old" "School Age/Adolescent"}<br>
-        Common cases:
-        - ${./link.dhall "hx/peds/atopic" " "}<br>
+        - ${./link.dhall "hx/peds/old" "School Age/Adolescent"}<br><br>
+        Common cases:<br>
+        - ${./link.dhall "hx/peds/atopic" "Allergies/Eczema"}<br>
         ''
     ],
     backlink1 = None s.LinkData,

@@ -153,19 +153,21 @@ let pages : List s.PageUnion = [
         ./pages/PE/ortho/shoulder/rtc.dhall "PE/ortho/shoulder/rtc",
 
     ./pages/tests/menu.dhall "tests/menu",
-        ./pages/tests/BMP.dhall "tests/BMP",
+        ./pages/tests/CMP.dhall "tests/CMP",
         ./pages/tests/CBC.dhall "tests/CBC",
         ./pages/tests/CXR.dhall "tests/CXR",
         ./pages/tests/echo.dhall "tests/echo",
-        ./pages/tests/LFT.dhall "tests/LFT",
-        ./pages/tests/LFT.dhall "tests/LP",
+        ./pages/tests/echo.dhall "tests/LP",
+        ./pages/tests/other.dhall "tests/other",
         ./pages/tests/pap.dhall "tests/pap",
         ./pages/tests/paracentesis.dhall "tests/paracentesis",
-        ./pages/tests/pap.dhall "tests/urine",
+        ./pages/tests/urine.dhall "tests/urine",
         ./pages/tests/transfusion.dhall "tests/transfusion",
 
 
     ./pages/cases/menu.dhall "cases/menu",
+    ./pages/cases/afib/hp.dhall "cases/afib/hp",
+    ./pages/cases/afib/ap.dhall "cases/afib/ap",
     ./pages/cases/anemia/hp.dhall "cases/anemia/hp",
     ./pages/cases/anemia/ap.dhall "cases/anemia/ap",
     ./pages/cases/COPD/hp.dhall "cases/COPD/hp",
@@ -179,6 +181,8 @@ let pages : List s.PageUnion = [
     ./pages/cases/HF/hp.dhall "cases/HF/hp",
     ./pages/cases/HF/dx.dhall "cases/HF/dx",
     ./pages/cases/HF/tx.dhall "cases/HF/tx",
+    ./pages/cases/lac.dhall "cases/lac",
+    ./pages/cases/MVA.dhall "cases/MVA",
     ./pages/cases/OB/gen.dhall "cases/OB/gen",
     ./pages/cases/OB/23.dhall "cases/OB/23",
     ./pages/cases/OB/US.dhall "cases/OB/US",
@@ -191,8 +195,7 @@ let pages : List s.PageUnion = [
     ./pages/cases/UTI/hp.dhall "cases/UTI/hp",
     ./pages/cases/UTI/ap.dhall "cases/UTI/ap",
     ./pages/cases/VB/hp.dhall "cases/VB/hp",
-    ./pages/cases/VB/ap.dhall "cases/VB/ap",
-    ./pages/cases/MVA.dhall "cases/MVA"
+    ./pages/cases/VB/ap.dhall "cases/VB/ap"
     ]
 
 in pages

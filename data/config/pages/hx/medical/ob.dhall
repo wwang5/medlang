@@ -1,14 +1,14 @@
 -- ob
 let s = ./schema.dhall
 in ./technique.dhall {
-title = "Obstetric History",
+title = "Obstetric/Gynecologic History",
 image = None Text,
 translations =
 [
     {
-        en = "When was your last menstrual period?",
-        es = Some "Cu&aacute;ndo fue su &uacute;ltima menstruaci&oacute;n?",
-        zh = Some "您最後一次 月經(yue4 jing1) 是什麽時候？"
+        en = "When was your last <u>menstrual period</u>?",
+        es = Some "Cu&aacute;ndo fue su &uacute;ltima <u>menstruaci&oacute;n/regla</u>?",
+        zh = Some "您最後一次 <u>月經(yue4 jing1)</u> 是什麽時候？"
     },
     {
         en = "Are your periods regular?",
@@ -21,9 +21,14 @@ translations =
         zh = Some "您 懷孕(huai2 yun4) 過嗎？ 多少次？"
     },
     {
-        en = "Are you currently pregnant? Planning to get pregnant?",
-        es = Some "Est&aacute; embarazado o planeando quedar embarazada?",
-        zh = None Text
+        en = "Are you currently pregnant? Do you plan to get pregnant?",
+        es = Some "Est&aacute; embarazado? Planea quedar embarazada?",
+        zh = Some "您有怀孕的计划吗？"
+    },
+    {
+        en = "Tubal ligation",
+        es = Some "",
+        zh = Some "输卵管结扎 (shu1 luan3 guan3 jie2 za1)"
     }
 ],
 menu_items = ./menu_items.dhall,

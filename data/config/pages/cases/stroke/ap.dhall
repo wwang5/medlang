@@ -15,7 +15,7 @@ translations =
         zh = None Text
     },
     {
-        en = "brain MRI ientifies abnormalities in the brain structure.",
+        en = "Brain MRI ientifies abnormalities in the brain structure.",
         es = Some "La MRI (tomograf&iacute;a computarizada resonancia magn&eacute;tica) de la cabeza identifica problemas con la estructura del cerebro.",
         zh = None Text
     },

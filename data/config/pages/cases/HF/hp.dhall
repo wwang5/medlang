@@ -13,22 +13,22 @@ translations =
     {
         en = "Do you sleep with pillows? How many?",
         es = Some "Duerme con almohadas? Cu&aacute;ntos?",
-        zh = None Text
+        zh = Some "您睡觉时用枕头吗？ 几个？"
     },
     {
-        en = "Do you sleep sitting up / in a recliner?",
-        es = Some "Duerme sentado / en una silla reclinable?",
-        zh = None Text
+        en = "Do you sleep sitting up / in a <u>recliner</u>?",
+        es = Some "Duerme sentado / en una <u>silla reclinable</u>?",
+        zh = Some "您是 坐着 / 在<u>躺椅(tang3yi3)</u>上 睡觉吗？"
     },
     {
         en = "Have you been eating more salt than usual?",
         es = Some "Ha comido m&aacute;s sodio que normal?",
-        zh = None Text
+        zh = Some "您有没有最近吃比平常更多的盐?"
     },
     {
         en = "Diuretics / Water pills",
         es = Some "Diur&eacute;ticos / Pastillas acuosas",
-        zh = None Text
+        zh = Some "利尿剂(li4 niao4 ji4)"
     },
     {
         en = "Is it worse at night / lying flat?",

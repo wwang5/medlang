@@ -27,17 +27,37 @@ translations =
     {
         en = "MIGRAINES：",
         es = None Text,
-        zh = None Text
+        zh = Some "偏头痛 (pian1 tou2 tong4)"
     },
     {
-        en = "Avoid things that can trigger the headache, such as bright/flashing light, loud noises, and certain foods.",
-        es = Some "Evite cosas que pueden provocan el dolor, como luces brillantes, ruidos fuertes, o comidas espec&iacute;ficas.",
-        zh = None Text
+        en = "Avoid things that can trigger the headache, such as...",
+        es = Some "Evite cosas que pueden provocan el dolor, como... ",
+        zh = Some "避免会引发偏头痛, 譬如... (bi4 mian3 hui4 yin3 fa1 pian, pi4 ru2)"
     },
     {
-        en = "Take these medications as needed for the migraines.",
-        es = Some "Tome estas medicinas como se necesite para los migra&ntilde;as.",
-        zh = None Text
+        en = "- bright/flasing light",
+        es = Some "- luces brillantes",
+        zh = Some "- 亮光 (liang4 guang1)/ 闪光(shan3 guang1)"
+    },
+    {
+        en = "- loud noises",
+        es = Some "- ruidos fuertes",
+        zh = Some "- 巨大的响声 (jv4 da4 de xiang3 sheng1)"
+    },
+    {
+        en = "- certain foods",
+        es = Some "- comidas espec&iacute;ficas",
+        zh = Some "- 某些食物 (mo3 xie1 shi2 wu4)"
+    },
+    {
+        en = "- stress",
+        es = Some "- el estr&eacute;s",
+        zh = Some "- 压力大 (ya1 li4 da4)"
+    },
+    {
+        en = "Take these pain medications as needed for the headaches.",
+        es = Some "Tome estas analg&eacute;lgesicos como se necesite para los migra&ntilde;as.",
+        zh = Some "需要的时候服用这些止头痛的药"
     }
 ],
 menu_items = [{title = "HA - hx", filename = "cases/HA/hp"}, {title = "HA - A&P", filename = "cases/HA/ap"}],

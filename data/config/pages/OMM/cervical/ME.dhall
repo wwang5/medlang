@@ -5,9 +5,9 @@ in ./technique.dhall {
     image = None Text,
     translations = [
         {
-            en = "Do you feel my fingers tapping on your head/temple?",
-            es = Some "Puede sentir mis dedos tocando su cabeza/si&eacute;n?",
-            zh = None Text
+            en = "Do you feel my fingers (tapping on your head)?",
+            es = Some "Puede sentir mis dedos (tocando su cabeza)?",
+            zh = Some "感觉到我的手指点您的头吗？"
         },
         {
             en = "<u>OA</u>: Look at my finger.  Now return your gaze to the center.",

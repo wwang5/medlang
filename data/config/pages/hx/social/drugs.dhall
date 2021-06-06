@@ -43,17 +43,17 @@ translations =
     {
         en = "Have you ever used drugs?",
         es = Some "Ha usado drogas?",
-        zh = Some "您用 毒品(du2 pin3) 嗎？"
+        zh = Some "您用 娱乐性药物(yu2 le4 xing4 yao4 wu4) 嗎？"
     },
     {
         en = "marijuana / meth(amphetamines) / cocaine / heroin",
         es = Some "marihuana / met(anfetaminas) / coca&iacute;na / hero&iacute;na",
-        zh = Some "大麻(da4 ma2) / __ / 可卡因 / "
+        zh = Some "大麻(da4 ma2) / 冰毒(bing1 du2) / 可卡因 / 海洛因"
     },
     {
         en = "For how many years?",
         es = Some "Por cu&aacute;ntos a&ntilde;os?",
-        zh = None Text
+        zh = Some "用了几年?"
     },
     {
         en = "When did you quit __?",

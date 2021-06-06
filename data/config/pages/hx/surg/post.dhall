@@ -7,17 +7,17 @@ translations =
     {
         en = "Any bleeding or discharge from the wound?",
         es = Some "Tiene sangrado o descarga de la herida?",
-        zh = None Text
+        zh = Some "伤口有流血或分泌物吗?"
     },
     {
         en = " itching",
         es = Some " picaz&oacute;n",
-        zh = None Text
+        zh = Some "痒"
     },
     {
         en = "Keep the incision dry.",
-        es = Some "Mantenga seco la incisi&oacute;n.",
-        zh = None Text
+        es = Some "Mantenga seco la incisi&oacute;n",
+        zh = Some "把刀口保持干燥 (ba3 dao1 ko3 bao3 chi2 gan1 zao4)"
     },
     {
         en = "The <i>steri-strips</i> will fall off on their own.",
@@ -50,9 +50,9 @@ translations =
         zh = None Text
     },
     {
-        en = "stool softener / laxative",
-        es = Some "ablandador de heces / laxante ",
-        zh = None Text
+        en = "stool softener // laxative",
+        es = Some "ablandador de heces // laxante ",
+        zh = Some "大便软化剂 (da4 bian4 ruan3 hua4 ji4) // 泻药 (xie4 yao4)"
     },
     {
         en = "You may resume physical activities as tolerated.",

@@ -28,7 +28,7 @@ in ../../conversation.dhall {
             filename = "PE/ortho/menu",
             image_map = None s.ImageMapData
         }
-    ],
+        ],
     backlink1 = None (./schema.dhall).LinkData,
     backlink2 = None (./schema.dhall).LinkData,
     backlink3 = None (./schema.dhall).LinkData

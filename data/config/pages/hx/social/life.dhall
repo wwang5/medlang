@@ -23,7 +23,7 @@ translations =
     {
         en = "Are you exposed to any hazards at work?",
         es = Some "Est&aacute; expuesto/a a riesgos en su trabajo?",
-        zh = None Text
+        zh = Some "您在工作有没有 <u>接触(ji1 chu4)</u> 到危险?"
     },
     {
         en = "Where do you live?",
@@ -38,16 +38,16 @@ translations =
     {
         en = "Nursing home",
         es = Some "residencia de ancianos",
-        zh = None Text
+        zh = Some "养老院"
     },
     {
         en = "SNF",
         es = Some "centro especializado de enfermer&iacute;a",
-        zh = None Text
+        zh = Some "专业护理设施 (zhuan1 ye4 hu4 li3 she4 shi4)"
     },
     {
-        en = "prison",
-        es = Some "la c&aacute;rcel",
+        en = "Prison",
+        es = Some "La c&aacute;rcel",
         zh = Some "監獄 (jian1 yu4)"
     },
     {
@@ -61,14 +61,9 @@ translations =
         zh = Some "您在家覺得安全嗎?"
     },
     {
-        en = "Have you ever felt physically or verbally threatened at home?",
-        es = None Text,
-        zh = None Text
-    },
-    {
         en = "Are you under much stress?",
         es = Some "Tiene mucho estr&eacute;s?",
-        zh = Some "您生活壓力大嗎？"
+        zh = Some "您生活壓力大嗎？(nin2 sheng1 hua2 ya1 li4 da4 ma)"
     },
     {
         en = "Have you ever been/worked in a prison?",

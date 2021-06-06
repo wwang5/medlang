@@ -8,7 +8,7 @@ translations =
     {
         en = "Depression?",
         es = Some "Depresi&oacute;n",
-        zh = Some " "
+        zh = Some "忧郁/抑郁 (you1 yu4 / yi4 yu4)"
     },
     {
         en = "Loss of interest?",
@@ -26,9 +26,9 @@ translations =
         zh = Some "睡眠問題"
     },
     {
-        en = "Memory loss?",
-        es = Some "P&eacute;rdida de la memoria?.",
-        zh = None Text
+        en = "Memory loss",
+        es = Some "P&eacute;rdida de la memoria",
+        zh = Some "丧失记忆 (sang4 shi1 ji4 yi4)"
     },
     {
         en = "Forgetfulness?",
@@ -48,7 +48,7 @@ translations =
     {
         en = "[auditory/visual] hallucinations?",
         es = Some "halucinaciones [visuales / auditivas]?",
-        zh = None Text
+        zh = Some "[视觉/听觉] 幻觉 (huan4 jue2)"
     },
     {
         en = "Thoughts of hurting yourself / others?",
@@ -57,8 +57,8 @@ translations =
     },
     {
         en = "Change in mood?",
-        es = Some "Cambio de humor?",
-        zh = None Text
+        es = Some "Cambio en el &aacute;nimo?",
+        zh = Some "情绪(qing2 xv4) 变化"
     },
     {
         en = "Confusion?",

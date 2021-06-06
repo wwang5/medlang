@@ -23,7 +23,7 @@ translations =
     {
         en = "Problems urinating [peeing]?",
         es = Some "Problemas para orinar [hacer pipi]?",
-        zh = None Text
+        zh = Some "排尿困难?"
     },
     {
         en = "Problems stooling [pooping]? ",
@@ -33,7 +33,7 @@ translations =
     {
         en = "When was your last bowel movement?",
         es = Some "Cu&aacute;ndo fue la &uacute;ltima vez que evacu&oacute;?",
-        zh = None Text
+        zh = Some "最后一次排便是什么时候?"
     },
     {
         en = "Can you pass gas?",
@@ -43,7 +43,7 @@ translations =
     {
         en = "Do you have an appetite? Did you eat today / yesterday?",
         es = Some "Tiene apetito? Comi&oacute; hoy / ayer?",
-        zh = None Text
+        zh = Some "有胃口吗? 今天/昨天有吃东西吗?"
     },
     {
         en = "How did you sleep?",
@@ -53,7 +53,7 @@ translations =
     {
         en = "Did ____ come by?  What did s/he say?",
         es = Some "Vino ____?  Qu&eacute; dijo?",
-        zh = None Text
+        zh = Some "__ 来吗？ 他说什么？"
     },
     {
         en = "Are you able to sit up / stand / walk around? ",
@@ -73,7 +73,7 @@ translations =
     {
         en = "Physical therapist",
         es = Some "Fisioterapeuta",
-        zh = None Text
+        zh = Some "物理治疗师"
     },
     {
         en = "Breathing treatment",
@@ -81,14 +81,29 @@ translations =
         zh = None Text
     },
     {
+        en = "Blood draw",
+        es = Some " ",
+        zh = Some "抽血 (chou1 xie3)"
+    },
+    {
+        en = "Today's labs",
+        es = Some " ",
+        zh = Some " "
+    },
+    {
         en = "Catheter",
         es = Some "Cat&eacute;ter",
-        zh = None Text
+        zh = Some "尿管"
     },
     {
         en = "Urinal",
         es = Some "Orinal",
-        zh = None Text
+        zh = Some "小便池 (xiao3 bian4 chi2)"
+    },
+    {
+        en = "Discharge from the hospital",
+        es = Some " ",
+        zh = Some "出院"
     }
 ],
 menu_items = [{title = " ", filename = "hx/menu"}],

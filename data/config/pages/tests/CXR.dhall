@@ -25,6 +25,11 @@ in ./technique.dhall {
             zh = Some "- 肺(fei4) 結節(jie2jie2)"
         },
         {
+            en = "- mass",
+            es = Some "- ",
+            zh = Some "- 肿块(zhong3 kuai4)"
+        },
+        {
             en = "- fluid/infiltrates in the lungs, which may indicate a lung infection.",
             es = Some "- l&iacute;quido/infiltrados dentro los pulmones, lo que puede ser una infecci&oacute;n pulmonar.",
             zh = None Text

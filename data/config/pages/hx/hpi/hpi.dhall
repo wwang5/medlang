@@ -8,11 +8,11 @@ translations =
     {
         en = "Why did you come to the hospital/office today?",
         es = Some "Porqu&eacute; vino al hospital/oficina hoy?",
-        zh = Some "您为什么今天来 医院/诊所？"
+        zh = Some "您为什么今天来 医院/诊所？(nin2 wei4 shen2 me jin1 tian1 lai2 yi1 yuan4 / zhen3 suo3)"
     },
     {
         en = "Do you have any questions/problems/concerns?",
-        es = Some " ?",
+        es = Some "Tiene alguna pregunta/problema/preocupaci&oacute;n?",
         zh = Some "您有什么问题吗？(nin2 you3 shen2 me wen4 ti2 ma)"
     },
     {
@@ -21,17 +21,22 @@ translations =
         zh = Some "什么是又开始？(shen2 me shi2 ho4 kai shi3)?"
     },
     {
-        en = "sudden",
-        es = Some "de repente",
+        en = "Sudden",
+        es = Some "De repente",
         zh = Some "突然 (tu2 ran2)"
     },
     {
-        en = "gradually",
+        en = "Gradually",
         es = Some "gradualmente",
         zh = Some "渐渐的 (jian4 jian4 de)"
     },
     {
-        en = "comes & goes",
+        en = "Constant",
+        es = Some "Constante",
+        zh = Some "持续 (chi2 xv4)"
+    },
+    {
+        en = "Comes & goes",
         es = Some "se va y viene",
         zh = Some "来来去去 （lai2 lai2 qu4 qu4) / 时有时无 (shi2 you3 shi2 wu2)"
     },
@@ -48,7 +53,7 @@ translations =
     {
         en = "On a scale of 1-10, how much is your pain?",
         es = Some "En una escala de uno a diez, cu&aacute;nto es su dolor?",
-        zh = Some "从一到十，十是最痛的， 您会给你的疼打几分？"
+        zh = Some "从一到十，十是最痛的， 您会给你的疼打几分？(con2 yi1 dao4 shi2, shi2 shi4 zui4 tong4 de, nin2 hui4 gei3 nin2 de tong4 da3 jie fen1)"
     },
     {
         en = "A little",
@@ -58,12 +63,12 @@ translations =
     {
         en = "Moderate",
         es = Some " ",
-        zh = Some "中等 （zhong1 deng3)"
+        zh = Some "中等 (zhong1 deng3)"
     },
     {
         en = "A lot",
         es = Some "Mucho",
-        zh = Some "非常"
+        zh = Some "非常/重度 (fei1 chang2 / zhong4 du4)"
     },
     {
         en = "Is it getting better, worse, or the same?",
@@ -81,13 +86,18 @@ translations =
         zh = Some "疼痛會 转移(zhuan3 yi2) 其它 地方(di4 fang1) 嗎？"
     },
     {
-        en = "What improves it? <br>What worsens it?",
-        es = Some "Qu&eacute; lo mejora? <br>Qu&eacute; lo empeora?",
-        zh = Some "huanjie 減輕 (jian3 qing1)？ 加痛 (jia1 tong4)？"
+        en = "What improves your sx?",
+        es = Some "Qu&eacute; lo mejora?",
+        zh = Some "什么会 缓解(huan3 jie3)/减轻 (jian3 qing1) 您的症状?"
     },
     {
-        en = "What improves it? <br>What worsens it?",
-        es = Some "Qu&eacute; lo mejora? <br>Qu&eacute; lo empeora?",
+        en = "What worsens it?",
+        es = Some "Qu&eacute; lo empeora?",
+        zh = Some "什么会 加痛(jia1 tong4)？"
+    },
+    {
+        en = "What have you tried to relieve the pain?",
+        es = Some "Hizo algo para tratar de aleviar el dolor?",
         zh = Some "你有没有 使用(shi3 young4)什么东西来 止痛(zhi3tong4)？"
     },
     {
@@ -96,14 +106,19 @@ translations =
         zh = Some "您能 <u>描述</u> 您的痛嗎？(nin2 neng2 <u>miao2shu4</u> nin2 de tong4 ma?)"
     },
     {
-        en = "- Sharp / Dull",
-        es = Some "Agudo / Sordo",
-        zh = Some "刺(ci4)痛 / 鈍(dun4)痛"
+        en = "- Sharp // Dull",
+        es = Some "Agudo // Sordo",
+        zh = Some "刺(ci4)痛 // 鈍(dun4)痛"
     },
     {
-        en = "- Throbbing / Colicky / Pressure",
-        es = Some " / C&oacute;lico / Presi&oacute;n",
-        zh = Some "抽(chou1)痛 / 絞(jiao3)痛 / 壓(ya1)痛"
+        en = "- Colicky/cramping ",
+        es = Some "- C&oacute;lico ",
+        zh = Some "- 絞(jiao3)痛"
+    },
+    {
+        en = "- Pressure",
+        es = Some "- Presi&oacute;n",
+        zh = Some "- 壓(ya1)痛"
     },
     {
         en = "- Burning",
@@ -111,29 +126,34 @@ translations =
         zh = Some "- 灼(zhuo2) 痛"
     },
     {
-        en = "Constant / Comes & goes",
-        es = Some "Constante / Se va y viene",
-        zh = Some "持续 (chi2 xv4)"
+        en = "Diffuse",
+        es = Some "- Difuso",
+        zh = Some "弥漫性 (mi2 man4 xing4)"
     },
     {
         en = "How long does it last?",
         es = Some "Cu&aacute;nto tiempo le dura?",
-        zh = Some "痛多久 (tong4 duo1 jiu3)？"
+        zh = Some "持续(chi2 xv4) 多久？"
     },
     {
-        en = "Have you had this pain (problem) before in your life?",
-        es = Some "Ha tenido este dolor (problema) en su vida?",
-        zh = Some "您以前有這樣的痛（症狀）過嗎？"
+        en = "Have you had this pain before in your life?",
+        es = Some "Ha tenido este dolor en su vida?",
+        zh = Some "您以前有这样的通过吗？"
     },
     {
         en = "Any other <u>symptoms</u>?",
         es = Some "Tiene otros <u>s&iacute;ntomas</u>?",
-        zh = Some "還有什麽别的 <u>症狀(zheng4 zhuang4)</u> 嗎?"
+        zh = Some "还有什么别的 <u>症狀(zheng4 zhuang4)</u> 吗?"
     },
     {
         en = "What is the name of your ___ doctor?",
         es = Some "C&oacute;mo se llama su doctor(a) ____?",
         zh = Some "您的___医生是谁？"
+    },
+    {
+        en = "Family/primary doctor",
+        es = Some "Doctor primario",
+        zh = Some "家庭医生"
     }
 ],
 menu_items = ./menu_items.dhall,

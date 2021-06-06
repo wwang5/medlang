@@ -26,14 +26,24 @@ translations =
         zh = Some "僵硬 (jiang1 ying4)?"
     },
     {
-        en = "- the back",
-        es = Some "- la espalda?",
-        zh = Some "背部； 腰"
+        en = "- the (upper) back / waist",
+        es = Some "- la espalda / la cintura?",
+        zh = Some "背部(bei4 bu4)/ 腰部(yao1 bu4)"
+    },
+    {
+        en = "- the neck",
+        es = Some "- el cuello?",
+        zh = Some "- 颈部(jing3 bu4)/脖子"
     },
     {
         en = "- the shoulder?",
         es = Some "- el hombro?",
         zh = Some "- 肩膀 (jian1 bang3)"
+    },
+    {
+        en = "- the hips?",
+        es = Some "- las calderas?",
+        zh = Some "- 臀部 (tun2 bu4)"
     }
 ],
 menu_items = ./menu_items.dhall,

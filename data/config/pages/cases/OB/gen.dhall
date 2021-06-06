@@ -22,12 +22,12 @@ translations =
     },
     {
         en = "Miscarriage",
-        es = Some "P&eacute;rdida de beb&eacute;/ Aborto espont&aacute;neo",
+        es = Some "Aborto espont&aacute;neo / P&eacute;rdida de beb&eacute;",
         zh = None Text
     },
     {
-        en = "vaginal / c-section",
-        es = Some "vaginal / ces&aacute;rea",
+        en = "vaginal // c-section",
+        es = Some "vaginal // la ces&aacute;rea",
         zh = None Text
     },
     {

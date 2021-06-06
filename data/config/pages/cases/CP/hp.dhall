@@ -12,7 +12,7 @@ translations =
     {
         en = "heavy pressure / heavy weight ",
         es = Some "presi&oacute;n fuerte / peso fuerte",
-        zh = None Text
+        zh = Some ""
     },
     {
         en = "crushing / squeezing ",
@@ -52,7 +52,7 @@ translations =
     {
         en = "coronary bypass surgery (CABG)",
         es = Some "cirug&iacute;a de revascularizaci&oacute;n coronaria",
-        zh = None Text
+        zh = Some "冠状动脉搭桥手术 (guan1 zang4 dong4 mai4 da1 qiao2 shou3 shu4)"
     }
 ],
 menu_items = [{title = "Angina - H&P", filename = "cases/CP/hp"}, {title = "Angina - A&P", filename = "cases/CP/ap"}],

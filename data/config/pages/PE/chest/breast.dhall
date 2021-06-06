@@ -7,7 +7,7 @@ in ./technique.dhall {
         {
             en = "I'm going to use light / moderate/ firm pressure to your breast.",
             es = Some "Voy a hacer presi&oacute;n leve / moderada / firme al seno.",
-            zh = None Text
+            zh = Some "我要压您的乳房. 先轻轻的压. 然后用力压. "
         },
         {
             en = "I'm going to feel for your axillary lymph nodes, in your armpit.",

@@ -23,7 +23,7 @@ translations =
     {
         en = "Loss / gain in appetite?",
         es = Some "Falta / gana de apetito?",
-        zh = Some " "
+        zh = Some " 食欲 (shi2 yu4)"
     },
     {
         en = "Fever?",

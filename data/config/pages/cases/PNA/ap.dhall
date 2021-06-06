@@ -10,14 +10,19 @@ translations =
         zh = None Text
     },
     {
-        en = "Your CXR shows infiltrates in the lungs, which may indicate a lung infection.",
-        es = Some "Su radiograf&iacute;a de t&oacute;rax muestra infiltrados dentro los pulmones, lo que puede ser una infecci&oacute;n pulmonar.",
-        zh = None Text
+        en = "Your CXR shows _____, which may indicate a lung infection.",
+        es = Some "Su radiograf&iacute;a de t&oacute;rax muestra _____, lo que puede ser una infecci&oacute;n pulmonar.",
+        zh = Some "您的胸部X光 显示(xian3 shi4) _____,表示可能肺脏发炎。"
     },
     {
-        en = "Sputum culture: We will take cultures of your sputum to look for bacteria.",
-        es = Some "El cultivo de esputo: Vamos a tomar cultivos de su esputo para buscar bacterias.",
-        zh = None Text
+        en = "- pulmonary infiltrates // pulmonary edema // emphysema ",
+        es = Some "- infiltrados dentro los pulmones // edema en los pulmones",
+        zh = Some "- 肺浸润 (fei4 jin4 run4) // 肺水肿 (fei4 shui3 zhong4)"
+    },
+    {
+        en = "We will perform a <u>sputum culture</u> to look for bacteria.",
+        es = Some "Vamos a hacer el <u>cultivo de esputo</u> para buscar bacterias.",
+        zh = Some "我们会做 <u>痰培养(tan2 pei2 yang3)</u>,看痰里有没有 细菌(xi4 jvn4)"
     },
     {
         en = "Your oxygen levels are low.",

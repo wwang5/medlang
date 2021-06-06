@@ -8,32 +8,32 @@ in ./technique.dhall {
         {
             en = "How many fingers am I holding up?",
             es = Some "Cu&aacute;ntos dedos tengo?",
-            zh = None Text
+            zh = Some "现在看到几只手指?"
         },
         {
             en = "Put on your glasses.",
             es = Some "P&oacute;ngase sus gafas.",
-            zh = None Text
+            zh = Some "把眼镜戴上."
         },
         {
             en = "Do you wear contact lens?",
             es = Some "Tiene lentes de contacto?",
-            zh = None Text
+            zh = Some "您戴隐形眼镜吗?"
         },
         {
             en = "Look at the letters on the chart.",
             es = Some "Mira las letras en la cartilla.",
-            zh = None Text
+            zh = Some "看前方视力表的字母."
         },
         {
-            en = "Cover one eye.",
-            es = Some "Cubra una ojo.",
-            zh = None Text
+            en = "Cover your left / right eye.",
+            es = Some "Cubra su ojo izquierdo / derecho.",
+            zh = Some "盖住您的 左/右 眼."
         },
         {
             en = "Read the top line<br>...next line<br>...the lowest line that you are able",
-            es = Some "Lea la l&iacute;nea superior<br>......la l&iacute;nea pr&oacute;xima<br>...la l&iacute;nea m&aacute;s baja que pueda.",
-            zh = None Text
+            es = Some "Lea la l&iacute;nea superior<br>....la l&iacute;nea pr&oacute;xima<br>...la l&iacute;nea m&aacute;s baja que pueda.",
+            zh = Some "念出第一行的字<br>...下一行<br>...能念的最后一行."
         }
     ],
     menu_items = ./menu_items.dhall,

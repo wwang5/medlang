@@ -1,7 +1,7 @@
 -- pediatric older kids
 let s = ./schema.dhall
 in ./technique.dhall {
-title = "Pediatric - School age/Adolescent",
+title = "Pediatric Well child - School age/Adolescent",
 image = None Text,
 translations =
 [
@@ -53,7 +53,7 @@ translations =
     {
         en = "Are you <u>sexually active</u>?",
         es = Some " ",
-        zh = Some "你有 <u>性行为(xing4 xin2 wei2)</u> 吗？"
+        zh = Some "你有 <u>性行为(xing4 xing2 wei2)</u> 吗？"
     },
     {
         en = "Tdap",

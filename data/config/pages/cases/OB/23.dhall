@@ -6,8 +6,18 @@ image = None Text,
 translations =
 [
     {
+        en = "Test for gestational diabetes",
+        es = Some " ",
+        zh = None Text
+    },
+    {
         en = "You will drink a glucose solution, and 1 hour later we will check your blood sugar.",
         es = Some "Va a beber una soluci&oacute;n de glucosa, y una hora despu&eacute;s vamos a revisar sus niveles the az&uacute;car en la sangre.",
+        zh = None Text
+    },
+    {
+        en = "Test for group B strep",
+        es = Some " ",
         zh = None Text
     },
     {

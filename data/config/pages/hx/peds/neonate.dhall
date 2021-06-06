@@ -6,17 +6,12 @@ image = None Text,
 translations =
 [
     {
-        en = "<u>NEONATE-SPECIFIC</n>",
-        es = Some " ",
-        zh = Some " "
-    },
-    {
         en = "Pregnancy complications",
         es = Some " ",
         zh = Some "怀孕的并发症 (huai2 yun4 de bing4 fa1 zheng4)"
     },
     {
-        en = "postpartum depression",
+        en = "Postpartum depression",
         es = Some " ",
         zh = Some "产后抑郁症 (chan3 hou4 yi4 yu4 zheng4)"
     },
@@ -56,7 +51,7 @@ translations =
         zh = Some "...在两周左右会自己掉下。"
     },
     {
-        en = "jaundice",
+        en = "Jaundice",
         es = Some "la ictericia",
         zh = Some "黄疸 (huang2 dan3)"
     },

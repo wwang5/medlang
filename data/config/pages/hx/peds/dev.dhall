@@ -6,13 +6,13 @@ image = None Text,
 translations =
 [
     {
-        en = "lift head from prone position",
-        es = Some " ",
+        en = "Lift head from prone position",
+        es = Some "levatar la cabeza mientras est&aacute; en posici&oacute;n boca abajo",
         zh = Some "他趴着的时候，有没有办法抬头 (ta1 pa1 zhe de shi2 hou4, you3 mei2 you3 ban4 fa3 tai2 tou2)"
     },
     {
-        en = "turn head from side to side",
-        es = Some " ",
+        en = "Turn head from side to side",
+        es = Some "girar la cabeza de un lado a otro",
         zh = Some "左右转头 (zuo3 you4 zhuan3 tou2) "
     },
     {
@@ -26,13 +26,13 @@ translations =
         zh = Some "- 到 中线 (dao4 zhong1 xian4)"
     },
     {
-        en = "grasps __",
-        es = Some " ",
+        en = "Grasp __",
+        es = Some "agarrar ___",
         zh = Some "抓着 (zhua1 zhe) __"
     },
     {
-        en = "Reaches for objects",
-        es = Some " ",
+        en = "Reach for objects",
+        es = Some "alcanzar objetos",
         zh = Some "伸手拿东西 (shen1 shou3 na2 dong1 xi)"
     },
     {
@@ -41,18 +41,18 @@ translations =
         zh = Some "你抱他起来的时候,他的头有没有办法直立? (ni3 bao4 ta qi3 lai2 de shi2 hou4, ta1 de tou2 you3 mei2 you3 ban4 fa3 zhi2 li4)</u> "
     },
     {
-        en = "Rolls side to side",
-        es = Some " ",
+        en = "Roll side to side",
+        es = Some "voltearse de un lado a otro",
         zh = Some "躺的时候，左右转身 (tang3 de shi2 hou4, zuo3 you4 zhuan3 dong4)"
     },
     {
-        en = "sits with/without support",
-        es = Some " ",
+        en = "Sit with/without support",
+        es = Some "sentarse con/sin ayuda",
         zh = Some "有人扶住就可以坐 (you3 ren2 fu2 zhu4 jiu4 ke3 yi3 zuo4) // 自己坐 (zi4 ji3 zuo4)"
     },
     {
-        en = "Babbles",
-        es = Some "balbucee",
+        en = "Babble",
+        es = Some "balbuceer",
         zh = Some "丫丫学语 (ya1 ya1 xue2 yu3)"
     },
     {
@@ -61,13 +61,13 @@ translations =
         zh = Some "出牙 (chu1 ya2)"
     },
     {
-        en = "helps out in the house",
-        es = Some " ",
+        en = "Helps out in the house",
+        es = Some "Ayudar en casa",
         zh = Some "帮忙做家事 (bang1 mang2 zuo4 jia1 shi4)"
     },
     {
-        en = "identifies body part",
-        es = Some " ",
+        en = "Identifies body part",
+        es = Some "Identificar las partes del cuerpo",
         zh = Some "认知身体部位 (ren4 zhi1 sheng1 ti3 bu4 wei4) "
     },
     {
@@ -77,12 +77,12 @@ translations =
     },
     {
         en = "imitates actions",
-        es = Some "imita las acciones de otros",
+        es = Some "imitar las acciones de otros",
         zh = Some "模仿别人的动作 (mo2 fang3 bie2 ren2 de dong4 zuo4)"
     },
     {
         en = "stranger anxiety",
-        es = Some "ansiedad con los extra&ntilde;os",
+        es = Some "la ansiedad con los extra&ntilde;os",
         zh = Some "陌生人焦虑 (mo4 sheng1 ren2 jiao1 lv4)"
     },
     {
@@ -92,38 +92,38 @@ translations =
     },
     {
         en = "pull to stand",
-        es = Some " ",
+        es = Some "Levantarse para pararse",
         zh = Some "拉这东西站起来 (la1 zhe dong1 xi zhan4 qi3 lai2)"
     },
     {
         en = "walks holding onto sth",
-        es = Some " ",
+        es = Some "Caminar mientras sostener algo",
         zh = Some "抓着东西走路 (zhua1 ze dong1 xi1 zou3 lu4)"
     },
     {
         en = "remove lid from container",
-        es = Some " ",
+        es = Some "quitar la tapa del contenedor",
         zh = Some "打开盖子 (da3 kai1 gai4 zi)"
     },
     {
         en = "stack blocks",
-        es = Some " ",
+        es = Some "apilar bloques",
         zh = Some "叠积木 (die2 ji1 mu4)"
     },
     {
         en = "how many words does he know?",
-        es = Some " ",
+        es = Some "Cu&aacute;ntas palabras conoce?",
         zh = Some "他知道几个字? (ta zhi dao4 ji3 ge zi4)"
     },
     {
         en = "put noun and verb together",
-        es = Some " ",
+        es = Some "juntar palabras de sujeto y verbo",
         zh = Some "把名词跟动词放在一起 (ba3 ming2 ci2 gen1 dong4 ci2 fang4 zai4 yi1 qi3) "
     },
     {
-        en = "_-word phrases",
-        es = Some "frases con __ palabras",
-        zh = Some "_个字的片语 (_ ge zi4 de pian4 yu3) "
+        en = "#-word phrases",
+        es = Some "frases con # palabras",
+        zh = Some "#个字的片语 (# ge zi4 de pian4 yu3) "
     },
     {
         en = "sentences",
@@ -132,12 +132,12 @@ translations =
     },
     {
         en = "puts on clothes // takes off clothes",
-        es = Some " ",
+        es = Some "ponerse la ropa // quitarse la ropa ",
         zh = Some "穿(chuan1)衣服 // 脱衣服 (tuo1 yi1 fu2) "
     },
     {
         en = "draws a... circle // cross // square",
-        es = Some "dibuja un... circulo // cruz // cuadrado",
+        es = Some "dibujar un... circulo // cruz // cuadrado",
         zh = Some "画... 圆圈(yuan2quan1) // 十字(shi2 zi4) // 正方形(zheng4 fang1 xing2)"
     },
     {
@@ -146,9 +146,9 @@ translations =
         zh = Some "只用右脚保持平衡 (zhi3 young4 you4 jiao3 bao3 chi2 ping2 heng2)"
     },
     {
-        en = "count 4 coins",
-        es = Some " ",
-        zh = Some "数四个铜板 (shu3 si4 ge tong2 ban3)"
+        en = "count to 4",
+        es = Some "contar hasta cuatro",
+        zh = Some "数到四"
     }
 ],
 menu_items = ./menu_items.dhall,

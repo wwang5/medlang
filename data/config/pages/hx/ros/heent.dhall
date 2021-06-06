@@ -103,7 +103,7 @@ translations =
     {
         en = "Hoarseness?",
         es = Some "Ronquera?",
-        zh = None Text
+        zh = Some "声音嘶哑? (sheng1 yin1 si1 ya3)"
     },
     {
         en = "Loss / change in your voice?",
@@ -133,12 +133,17 @@ translations =
     {
         en = "Toothache?",
         es = Some "Dolor de muelas?",
-        zh = None Text
+        zh = Some "牙痛 (ya2 tong4)"
     },
     {
         en = "Changes in taste?",
         es = Some "Cambios en el gusto?",
         zh = Some "味覺(wei4 jue2) 變化？"
+    },
+    {
+        en = "Changes in smell?",
+        es = Some "Cambios en el olero?",
+        zh = Some "嗅覺(xiu4 jue2) 變化？"
     }
 ],
 menu_items = ./menu_items.dhall,

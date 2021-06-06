@@ -7,12 +7,12 @@ translations =
     {
         en = "Weigh yourself every morning, before breakfast.",
         es = Some "P&eacute;sese cada ma&ntilde;ana, antes de desayunar.",
-        zh = None Text
+        zh = Some "每天早上吃饭前要量体重"
     },
     {
         en = "Limit salt and fat intake, in order to reduce fluid retention.",
         es = Some "Limite la ingesta de sal y grasas, para reducir la retenci&oacute;n de fluidos.",
-        zh = None Text
+        zh = Some "限制盐的摄入 (xian4 zhi4 yan2 de she4 ru4)"
     },
     {
         en = "ACE-inhibitors: These medications dilate blood vessels & reduce blood pressure.",
@@ -37,12 +37,12 @@ translations =
     {
         en = "Diuretics help remove fluid from your body.",
         es = Some "Los diur&eacute;ticos ayudar a eliminar liacute;quidos de su cuerpo.",
-        zh = None Text
+        zh = Some "利尿药(li4 niao4 yao4)"
     },
     {
-        en = "diuretics cause you to urinate more, thus it's recommended to take them in the morning.",
+        en = "Diuretics cause you to urinate more, thus it's recommended to take them in the morning.",
         es = Some "los diur&eacute;ticos estimulan la orina, por eso se recomineda tomarlos por la ma&ntilde;ana.",
-        zh = None Text
+        zh = Some "利尿药会让您多尿，所以我建议您早上吃"
     },
     {
         en = "Vasodilators: these medications dilate blood vessels, which reduce the heart's workload.",
